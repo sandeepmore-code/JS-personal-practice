@@ -51,9 +51,22 @@
 // let ppl=70
 // console.log(ppl)
 
-const CPL=50
-console.log(CPL)
- CPL=60
- console.log(CPL)
- const CPL=70// cannot re-assign or re-declare.
+// const CPL=50
+// console.log(CPL)
+//  CPL=60
+//  console.log(CPL)
+//  const CPL=70// cannot re-assign or re-declare.
+
+// {
+//     let Myname = "Awdiz" ;
+//     console.log (Myname)
+// }
+
+// {
+//     const mySurname = "Awdiz" ;
+//     console.log (mySurname)
+// }
+
+let myname = "Awdiz" ;
+console.log
  
