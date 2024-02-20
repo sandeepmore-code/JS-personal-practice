@@ -21,6 +21,7 @@
 // console.log (typeof ('true'))
 
 // console.log (`sandeep`)
+
 // console.log ( typeof`12.23`)
 
 // console.log("2" + '2')
@@ -31,8 +32,6 @@
 // console.log(true , typeof true)
 
 //variable
-
-// var mobile= 114
 // var mobile2=112
 
 // console.log('mobile'+'mobile2')
@@ -67,6 +66,11 @@
 //     console.log (mySurname)
 // }
 
-let myname = "Awdiz" ;
-console.log
+// console.log(Myname)
+// console.log(mySurname)
  
+// comparision operator
+
+
+
+
