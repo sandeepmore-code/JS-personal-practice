@@ -19,9 +19,13 @@
 
 // Q-Nested loop.
 
-for(i=0;i>=3;i++){
-    for(j=0;j<=4;j++){
+ 
+    // for  (var i=0;i<3;i++){
+    //     for (var j=1;j<4;j++){
+    //         console.log(i,j)
 
-    }
-    console.log(i,j)
-}
+    //     }
+        
+    // }
+    
+
